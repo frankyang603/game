@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/picture-of-sunset-blue-skies-and-clouds-115355698120xzxlsbdgn.jpg</file>
+        <file>image/800px-Auto_Racing_Green.svg.png</file>
+        <file>image/download.jpeg</file>
+        <file>image/images.jpeg</file>
+        <file>image/images (1).jpeg</file>
+        <file>image/download (1).jpeg</file>
+        <file>image/images (2).jpeg</file>
+        <file>image/download (2).jpeg</file>
+        <file>image/4.jpg</file>
+        <file>image/images (3).jpeg</file>
+        <file>image/download.png</file>
+        <file>image/character-wallpaper-1.jpg</file>
+        <file>image/png-transparent-doraemon-illustration-nobita-nobi-doraemon-youtube-television-doraemon-cartoon-desktop-wallpaper-nobita-nobi-thumbnail.png</file>
+        <file>image/nobita-nobi-doraemon-video-shizuka-minamoto-image-png-favpng-8TBN3ndWaJSEaPDnC9VRPyqMj.jpg</file>
+        <file>image/1200px-SpongeBob_SquarePants_character.svg.png</file>
+        <file>image/download (4).jpeg</file>
+        <file>image/download (5).jpeg</file>
+        <file>image/malibucola.webp</file>
+        <file>image/97941315_240531457379831_4553635042886156288_n.png</file>
+    </qresource>
+</RCC>

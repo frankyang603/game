@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/armor.jpeg</file>
+        <file>res/Black_colour.jpg</file>
+        <file>res/bouncebed.jpeg</file>
+        <file>res/bullet.png</file>
+        <file>res/doodle.png</file>
+        <file>res/doodleinprotect.jpeg</file>
+        <file>res/download (1).png</file>
+        <file>res/floor2.jpeg</file>
+        <file>res/GameOver.png</file>
+        <file>res/gemeover.html</file>
+        <file>res/monster.jpg</file>
+        <file>res/rocket.jpg</file>
+        <file>res/rocketdoodle.jpeg</file>
+        <file>res/soldier.jpg</file>
+        <file>res/white.png</file>
+    </qresource>
+</RCC>
